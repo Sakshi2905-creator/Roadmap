@@ -1,0 +1,25 @@
+
+th{
+    border:2px solid black;
+    text-align :center;
+    border-radius:10px;
+    font-size: larger;
+   
+    
+}
+table{
+    border-collapse: separate;
+    border-spacing: 100px 5px;
+}
+td{
+    text-align: center;
+
+}
+h1.double {
+    border-bottom-style:solid;
+    width:450px;
+    text-align:center;
+    margin-left:600px;
+    margin-top:50px;
+    color:black;
+    }
